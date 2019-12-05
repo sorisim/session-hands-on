@@ -13,7 +13,7 @@ for data in transit as well as data at rest.
 
 | Title | Description | Learning Time | Teaching Time With Discussion | 
 | :------- | :---------- | :-- | :-- |
-| [事前準備](001-Preparation/)  | このワークショップでは、Dockerコンテナを稼働させるホストサーバをAWS上に構築します。CloudFormationを利用して宣言的に環境を構築します。各自の公開鍵を事前に提供してください。 | 15 min | 30 min |
+| [Dockerハンズオン](/docker)  | このワークショップでは、Dockerコンテナの仕組みと用途をハンズオンを通じて学びます| 15 min | 30 min |
 | [Level 200: Client Side Encryption](usecase-2/)  | This workshop demonstrates client side encryption using a master key materials provider and python encryption SDK | 15 min | 30 min |
 | [Level 200: Client Side Encryption With Data Key Caching](usecase-3/)  | This workshop demonstrates client side encryption with data key caching using the python encryption sdk | 15 min | 30 min |
 
