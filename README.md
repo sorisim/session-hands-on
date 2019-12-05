@@ -1,6 +1,6 @@
 # Hands-on Workshops 
 
-ハンズオンで技術を学ぼう
+手を動かしたら、頭で振り返ろう
 
 <a><img src="images/mindsonlearning.png" width="960" height="540"></a>
 
@@ -8,4 +8,4 @@
 
 | Title | Description | Date |
 | :------- | :---------- | :-- |
-| [Dockerハンズオン](/docker)  | このワークショップでは、Dockerコンテナの仕組みと用途をハンズオンを通じて学びます| 12/14 |
+|[Dockerハンズオン](/docker)| このワークショップではDockerコンテナの仕組みと用途をハンズオンを通じて学びます|12/14|
