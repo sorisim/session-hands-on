@@ -1,6 +1,6 @@
 # Hands-on Workshops 
 
-ｘｘｘ
+ハンズオンで技術を学ぼう
 
 <a><img src="images/mindsonlearning.png" width="960" height="540"></a>
 
