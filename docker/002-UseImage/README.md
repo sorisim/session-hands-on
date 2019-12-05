@@ -3,7 +3,7 @@
 
 xxx
 
-<a><img src="images/docker-containerized-and-vm-transparent-bg.png" width="878" height="567"></a>
+<a><img src="images/docker-containerized-and-vm-transparent-bg.png" width="878" height="400"></a>
 
 # 環境を使う
 ## study1:用語解説
