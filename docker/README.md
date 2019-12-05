@@ -1,22 +1,13 @@
-# AWS Data Protection Workshops
+# Docker Hands-on Workshops
 
 xxx
 
-# Ubiquitous Encryption 
+<a><img src="images/handson.jpg" width="768" height="576"></a>
 
-xxx
-
-<a><img src="/images/handson.jpg" width="768" height="576"></a>
-
-# Workshops
+# Dockerハンズオン総合案内
 
 | Title | Description | Learning Time | Teaching Time With Discussion | 
 | :------- | :---------- | :-- | :-- |
-| [事前準備](/001-Preparation/)  | このワークショップでは、Dockerコンテナを稼働させるホストサーバをAWS上に構築します。CloudFormationを利用して宣言的に環境を構築します。各自の公開鍵を事前に提供してください。 | 15 min | 30 min |
-| [事前準備](/002-UseImage/)  | このワークショップでは、This workshop demonstrates client side encryption using a master key materials provider and python encryption SDK | 15 min | 30 min |
-| [事前準備](/003-CreateImage/)  | このワークショップでは、This workshop demonstrates client side encryption with data key caching using the python encryption sdk | 15 min | 30 min |
-
-
-## License Summary
-
-This sample code is made available under a modified MIT license. See the [LICENSE](LICENSE) file.
+| [事前準備](/docs/001-Preparation)  | このワークショップでは、Dockerコンテナを稼働させるためのホストサーバをAWS上に用意します。CloudFormationを利用して宣言的に環境を構築します。ホストにSSH接続するため各自が利用している公開鍵を事前に提供してください。 | 10 min | 20 min |
+| [環境を使う](/docs/002-UseImage)  | 様々なOSSミドルウェアについて、Dockerイメージを取得し手軽にサービスを立ち上げる体験をします | 10 min | 20 min |
+| [環境を作る](/docs/003-CreateImage)  | このワークショップでは、This workshop demonstrates client side encryption with data key caching using the python encryption sdk | 10 min | 20 min |
