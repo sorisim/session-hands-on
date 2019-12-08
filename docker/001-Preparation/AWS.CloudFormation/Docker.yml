@@ -9,7 +9,7 @@ Parameters:
   MyIP:
     Description: IP address allowed to access EC2
     Type: String
-    Default: 202.212.151.176/32
+    Default: 127.0.0.1/32
   VPCCIDR:
     Type: String
     Default: "10.2.0.0/16"

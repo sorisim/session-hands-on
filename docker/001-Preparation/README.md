@@ -21,10 +21,21 @@ AWS
 
 - sshコマンドが使えるターミナルを準備します。
 - ssh鍵ペアを準備します。
-- このリポジトリの [CloudFormationテンプレート](AWS.CloudFormation/Docker.yml)
-を 作業PC内に保存します。12行目のIPアドレスをパブリックIPアドレスで書き換えます。
 
-## オペレーション
+### AWS
+
+- ハンズオン参加者それぞれがAWSアカウントを取得する必要があります。アカウントは無料で作成することができます（クレジットカードが必要）
+- アカウント作成時から1年間、特定の機能を無料で利用することができます
+
+https://aws.amazon.com/jp/s/dm/landing-page/create-free-account/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc
+
+
+## ハンズオン当日
+### 作業PC
+
+- このリポジトリの [CloudFormationテンプレート](AWS.CloudFormation/Docker.yml)を 作業PC内に保存します。12行目のIPアドレスをパブリックIPアドレスで書き換えます。
+
+
 
 ### AWS
 
